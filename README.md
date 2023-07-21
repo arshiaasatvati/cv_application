@@ -4,6 +4,7 @@ A new Flutter project.
 
 this app is a simple example of flutter widgets
 
+![cvapp](https://github.com/arshiaasatvati/cv_application/assets/138293483/e2e772e8-d0a7-4bcf-ade5-45b558ed0c17)
 
 
 
