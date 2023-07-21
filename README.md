@@ -4,7 +4,7 @@ A new Flutter project.
 
 this app is a simple example of flutter widgets
 
-![Screenshot_1689937898](https://github.com/arshiaasatvati/cv_application/assets/138293483/6ba55631-0e9a-4428-a960-e9323ed7c35b)
+
 
 
 ## Getting Started
